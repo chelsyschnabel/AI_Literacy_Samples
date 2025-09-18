@@ -41,7 +41,7 @@ ai-literacy-work-samples/
 └── undergraduate-research/
     ├── activity-description.md
     ├── instructor-rubric.md
-    └──student-self-evaluation.md
+    └── student-self-evaluation.md
 ```
 
 ## 📖 Available Activities
