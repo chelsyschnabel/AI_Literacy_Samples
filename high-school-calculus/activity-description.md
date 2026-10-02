@@ -5,7 +5,9 @@
 In this analysis, students will utilize AI to expand their understanding of their solutions for mathematical computations. In this example, students utilize the AI not to solve the problem for them, but to help them understand the reason as to why their solutions are correct for the problem provided.
 
 **Subject:** Math - Calculus Problem Solving  
+
 **Suggested Tools:** Desmos & ChatGPT for different purposes 
+
 **Learning Objective:** Using AI tools strategically for verification and concept clarification
 
 ## Student Work Sample: "Optimization Problem Analysis"
