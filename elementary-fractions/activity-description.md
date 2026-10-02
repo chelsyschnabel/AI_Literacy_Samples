@@ -4,7 +4,9 @@
 This demonstration will illustrate how we can encourage students in 4th and 5th grade to begin utilizing AI with their educational needs. This is to help students create a healthy relationship with learning accompanied with AI, particularly utilizing AI to enhance their learning when they do not have the optimal resources available.
 
 **Subject:** Math - Fraction Word Problems  
+
 **Suggested Tool:** ChatGPT, with teacher/parent supervision, or district/school-provided AI tool
+
 **Learning Objective:** Using AI to check understanding and get hints, not answers
 
 ## Student Work Sample: "Pizza Party Fractions"
