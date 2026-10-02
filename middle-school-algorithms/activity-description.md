@@ -5,7 +5,9 @@
 For this activity, students will write an step-by-step algorithm for a number guessing game. They will utilize AI to help them improve upon their algorithm and optimize the algorithm before any code is written. The intention is to have the students utilize AI to assist them in improvements and brainstorming as opposed to completing the assignment for them.
 
 **Subject:** Computer Science - Algorithm Design  
+
 **Suggested Tool:** Claude for pseudocode review or district/school-provided AI tool
+
 **Learning Objective:** Using AI to improve algorithm efficiency and clarity
 
 ## Student Work Sample: "Number Guessing Game Algorithm"
