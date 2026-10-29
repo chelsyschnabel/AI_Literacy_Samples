@@ -23,9 +23,13 @@ Rate each area from 1-5 (1=Needs significant improvement, 3=Meets expectations, 
 
 ### AI Integration Evaluation
 **How effectively did your peer integrate AI tools?**
+
 ☐ Excellent - Strategic use of different AI tools while maintaining mathematical independence
+
 ☐ Good - Appropriate AI use for verification and concept clarification
+
 ☐ Fair - Basic AI use with some missed opportunities for enhancement
+
 ☐ Poor - Over-reliance on AI or inappropriate integration
 
 **AI integration feedback:**
@@ -34,9 +38,13 @@ Rate each area from 1-5 (1=Needs significant improvement, 3=Meets expectations, 
 
 ### Conceptual Understanding
 **Based on their explanations, how well does your peer understand the underlying concepts?**
+
 ☐ Deep understanding - Could teach these concepts to others
+
 ☐ Solid understanding - Grasps key concepts with minor gaps
+
 ☐ Basic understanding - Understands procedures but limited conceptual insight
+
 ☐ Limited understanding - Struggles with fundamental concepts
 
 **Conceptual feedback:**
