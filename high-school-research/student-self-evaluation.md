@@ -74,17 +74,13 @@
 **Based on this research experience, rate your preparedness for college-level work:**
 
 *Research Skills:* 
-
 ☐ Very prepared ☐ Mostly prepared ☐ Somewhat prepared ☐ Need more development
 
 *Statistical Analysis:* 
-
 ☐ Very prepared ☐ Mostly prepared ☐ Somewhat prepared ☐ Need more development
 
 *Academic Writing:* 
-
 ☐ Very prepared ☐ Mostly prepared ☐ Somewhat prepared ☐ Need more development
 
 *AI-Assisted Learning:* 
-
 ☐ Very prepared ☐ Mostly prepared ☐ Somewhat prepared ☐ Need more development
