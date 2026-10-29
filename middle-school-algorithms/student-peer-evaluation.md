@@ -10,9 +10,13 @@
 
 ### Algorithm Quality Assessment
 **Overall, how well does your partner's algorithm work?**
+
 ☐ Excellent - The algorithm is logical, complete, and would work perfectly
+
 ☐ Good - The algorithm mostly works with minor issues that could be easily fixed
+
 ☐ Fair - The algorithm has some good ideas but significant problems
+
 ☐ Poor - The algorithm has major flaws and wouldn't work as intended
 
 **Specific feedback on their algorithm:**
@@ -22,9 +26,13 @@
 
 ### AI Integration Evaluation
 **How effectively did your partner use AI to improve their work?**
+
 ☐ Excellent - Used AI strategically to enhance their thinking while staying in control
+
 ☐ Good - Used AI appropriately for feedback and improvement
+
 ☐ Fair - Used AI somewhat effectively but missed some opportunities
+
 ☐ Poor - Over-relied on AI or used it ineffectively
 
 **Comments on their AI use:**
@@ -33,9 +41,13 @@
 
 ### Communication Assessment
 **How well did your partner explain their design choices?**
+
 ☐ Very clear - I understood their reasoning and learned from their explanations
+
 ☐ Mostly clear - I understood most of their thinking with minor confusion
+
 ☐ Somewhat unclear - Some parts made sense but others were confusing
+
 ☐ Unclear - I had difficulty following their explanations
 
 **Feedback on communication:**
