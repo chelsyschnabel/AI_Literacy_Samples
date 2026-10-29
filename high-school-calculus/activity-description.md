@@ -157,28 +157,36 @@ Student created variations: "What if the river curved?" and used AI to explore h
 
 ### My Mathematical Problem-Solving
 **1-2:** I struggled with setting up the optimization problem or made major errors in calculus.
+
 **3-4:** I generally set up the problem correctly and used calculus techniques with minor errors.
+
 **5-6:** I expertly set up and solved the optimization problem with clear, accurate mathematical work.
 
 *My rating:* ___/6 *Specific example:* ________________________________
 
 ### My Strategic Use of AI Tools
 **1-2:** I relied too heavily on AI or used it inappropriately for basic mathematical thinking.
+
 **3-4:** I used AI appropriately to verify my work and clarify concepts.
+
 **5-6:** I strategically used different AI tools for verification, conceptual understanding, and extension while maintaining mathematical independence.
 
 *My rating:* ___/6 *Specific example:* ________________________________
 
 ### My Conceptual Understanding
 **1-2:** I could follow the steps but didn't really understand why the solution worked.
+
 **3-4:** I understood the basic concepts and could explain why my solution made sense.
+
 **5-6:** I deeply understood the optimization principles and could extend the problem to new situations.
 
 *My rating:* ___/6 *Specific example:* ________________________________
 
 ### My Mathematical Communication
 **1-2:** I had difficulty explaining my mathematical reasoning or verifying my solution.
+
 **3-4:** I could communicate my work adequately and used AI appropriately for verification.
+
 **5-6:** I clearly communicated my reasoning and demonstrated metacognitive awareness of my problem-solving process.
 
 *My rating:* ___/6 *Specific example:* ________________________________
@@ -217,8 +225,11 @@ Rate each area from 1-5 (1=Needs significant improvement, 3=Meets expectations, 
 ### AI Integration Evaluation
 **How effectively did your peer integrate AI tools?**
 ☐ Excellent - Strategic use of different AI tools while maintaining mathematical independence
+
 ☐ Good - Appropriate AI use for verification and concept clarification
+
 ☐ Fair - Basic AI use with some missed opportunities for enhancement
+
 ☐ Poor - Over-reliance on AI or inappropriate integration
 
 **AI integration feedback:**
@@ -228,8 +239,11 @@ Rate each area from 1-5 (1=Needs significant improvement, 3=Meets expectations, 
 ### Conceptual Understanding
 **Based on their explanations, how well does your peer understand the underlying concepts?**
 ☐ Deep understanding - Could teach these concepts to others
+
 ☐ Solid understanding - Grasps key concepts with minor gaps
+
 ☐ Basic understanding - Understands procedures but limited conceptual insight
+
 ☐ Limited understanding - Struggles with fundamental concepts
 
 **Conceptual feedback:**
@@ -239,8 +253,11 @@ Rate each area from 1-5 (1=Needs significant improvement, 3=Meets expectations, 
 ### Extension and Application
 **How well did your peer extend the problem or connect it to real-world applications?**
 ☐ Excellent extension with sophisticated connections
+
 ☐ Good extension with reasonable applications
+
 ☐ Some extension but limited depth
+
 ☐ Little to no meaningful extension
 
 **Extension feedback:**
