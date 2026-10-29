@@ -45,9 +45,13 @@ Rate each area from 1-5 (1=Needs significant improvement, 3=Meets expectations, 
 
 ### Extension and Application
 **How well did your peer extend the problem or connect it to real-world applications?**
+
 ☐ Excellent extension with sophisticated connections
+
 ☐ Good extension with reasonable applications
+
 ☐ Some extension but limited depth
+
 ☐ Little to no meaningful extension
 
 **Extension feedback:**
