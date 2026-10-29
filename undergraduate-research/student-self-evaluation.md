@@ -173,17 +173,12 @@
     ________________________________________________
 
 ### Career Preparation Assessment:
-**Rate your preparedness for the next level of your career:**
-
-**Graduate School Research:** ___/10
-
-**Industry Research and Development:** ___/10
-
-**Collaborative Team Research:** ___/10
-
-**Leading AI-Enhanced Research Projects:** ___/10
-
-**Mentoring Others in AI-Assisted Research:** ___/10
+- **Rate your preparedness for the next level of your career:**
+- **Graduate School Research:** ___/10
+- **Industry Research and Development:** ___/10
+- **Collaborative Team Research:** ___/10
+- **Leading AI-Enhanced Research Projects:** ___/10
+- **Mentoring Others in AI-Assisted Research:** ___/10
 
 **Overall Career Readiness Reflection:**
 Based on this research experience, what are your top 3 strengths for your next career step?
