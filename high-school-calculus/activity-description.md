@@ -212,13 +212,10 @@ Student created variations: "What if the river curved?" and used AI to explore h
 ### Mathematical Rigor Assessment
 Rate each area from 1-5 (1=Needs significant improvement, 3=Meets expectations, 5=Excellent)
 
-**Problem Setup and Variable Definition:** ___/5
-
-**Calculus Technique Application:** ___/5
-
-**Mathematical Accuracy:** ___/5
-
-**Solution Verification:** ___/5
+- **Problem Setup and Variable Definition:** ___/5
+- **Calculus Technique Application:** ___/5
+- **Mathematical Accuracy:** ___/5
+- **Solution Verification:** ___/5
 
 **Specific mathematical feedback:**
 - **Strongest mathematical aspect:** ________________________________________________
