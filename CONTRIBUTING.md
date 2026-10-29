@@ -1,10 +1,10 @@
 # Contributing to AI Literacy Work Samples
 
-Thank you for your interest in contributing to this collection of AI literacy educational materials! This project aims to help educators develop students' AI literacy skills across K-12 through higher education in mathematics and computer science contexts.
+Thank you for your interest in contributing to this collection of AI literacy educational materials! This project aims to help educators develop students' AI literacy skills across K-12 through higher education in mathematics and computer science contexts. We'd be happy to expand into other subject domains!
 
 ## 🎯 Our Mission
 
-We're building a comprehensive, practical resource that helps students learn to use AI as a **learning enhancement tool** while maintaining academic integrity, critical thinking, and intellectual ownership of their work.
+We're building a comprehensive, practical resource that helps students learn to use AI as a **learning enhancement tool** while maintaining academic integrity, critical thinking, and intellectual ownership of their work. This means that students should own their work and learning as opposed to letting AI do the learning for them.
 
 ## 🤝 Ways to Contribute
 
@@ -45,17 +45,17 @@ We're building a comprehensive, practical resource that helps students learn to 
 
 ## 📋 Contribution Guidelines
 
-### Before Contributing
+### 📋️ Before Contributing
 
 1. **Review Existing Materials**: Familiarize yourself with the current activities and assessment approaches
 2. **Read the Educational Philosophy**: Ensure your contribution aligns with our core principles
 3. **Check Issues**: Look for existing discussions about your idea
 4. **Start Small**: Consider beginning with feedback or small improvements
 
-### Content Standards
+### 📋️ Content Standards
 
 **All contributions should:**
-- ✅ **Maintain Academic Integrity**: Emphasize AI as learning enhancement, not replacement
+- ✅ **Maintain Academic Integrity**: Emphasize AI as a learning enhancement, not a replacement
 - ✅ **Include Assessment Tools**: Provide rubrics, self-evaluation, and peer evaluation components  
 - ✅ **Document AI Integration**: Clearly explain how and why specific AI tools are used
 - ✅ **Focus on Learning Process**: Value thinking and growth over perfect final products
@@ -63,7 +63,7 @@ We're building a comprehensive, practical resource that helps students learn to 
 - ✅ **Include Reflection Components**: Help students develop metacognitive awareness
 - ✅ **Promote Transparency**: Encourage honest documentation of AI assistance
 
-### Quality Expectations
+### 📋️ Quality Expectations
 
 **Educational Activities Should Include:**
 - Clear learning objectives and outcomes
@@ -112,19 +112,19 @@ We're building a comprehensive, practical resource that helps students learn to 
 
 ## 📐 Style Guidelines
 
-### Markdown Formatting
+### 🗒️ Markdown Formatting
 - Use consistent heading levels and structure
 - Include clear section breaks and visual organization
 - Use tables, lists, and formatting to enhance readability
 - Follow the established template patterns
 
-### Educational Language
+### 💬️ Educational Language
 - **Write for educators** as the primary audience
 - **Use student-friendly language** in materials intended for students
 - **Be specific and actionable** in instructions and guidelines
 - **Include examples** to illustrate concepts and expectations
 
-### AI Tool References
+### 📑️ AI Tool References
 - **Name specific AI tools** when relevant (ChatGPT, Claude, GitHub Copilot, etc.)
 - **Explain why particular tools** are chosen for specific tasks
 - **Provide alternatives** when possible for different institutional contexts
@@ -132,27 +132,27 @@ We're building a comprehensive, practical resource that helps students learn to 
 
 ## 🏆 Recognition
 
-### Attribution
+### 🪪️ Attribution
 All contributors will be recognized in the following ways:
 - **Contributors section** in the main README
 - **Activity credits** for new materials created
 - **Acknowledgment in documentation** for significant improvements
 - **Professional references** available upon request
 
-### Licensing
+### 🪪️ Licensing
 - By contributing, you agree that your contributions will be licensed under the same [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license
 - You retain credit for your specific contributions
 - Your contributions become part of the open educational resource commons
 
 ## 🗨️ Communication
 
-### Getting Help
+### 🆘️ Getting Help
 - **Open an issue** for questions about contributing
 - **Join discussions** in existing issues and pull requests
 - **Review the educator guidelines** for implementation context
 - **Contact maintainers** for complex questions or collaborations
 
-### Community Standards
+### 👥️ Community Standards
 We are committed to creating a welcoming, inclusive environment for all contributors. Please:
 - **Be respectful** in all interactions
 - **Focus on educational impact** in discussions
@@ -179,12 +179,13 @@ We are committed to creating a welcoming, inclusive environment for all contribu
 - **Institutional adoption** case studies
 - **Policy recommendations** for AI in education
 - **International collaboration** on AI literacy standards
+- **Subject expansion** for more domains
 
-## 📞 Questions?
+## ❓️ Questions?
 
 - **General questions**: Open an issue with the "question" label
 - **Contribution ideas**: Start a discussion in the Issues section  
-- **Complex collaborations**: [Add your contact information]
+- **Complex collaborations**: Contact Chelsy directly via email at Chelsy.Schnabel@gmail.com with the subject "AI Literacy Collaboration"
 - **Implementation support**: Review the educator-guidelines-for-ai.md file
 
 ---
